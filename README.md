@@ -23,10 +23,17 @@ You will get something like this
         ],
         "color": 0,
         "answer": 1
+      },
+      {
+        "question": "Question 2 here",
+        "options": [
+          "Answer 0",
+          "Answer 1",
+          "Answer 2"
+        ],
+        "color": 2,
+        "answer": 0
       }
-      ...
-      ...
-      ...
       
      ]
    }
